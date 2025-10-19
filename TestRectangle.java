@@ -1,4 +1,4 @@
-public class TestMain1 {
+public class TestRectangle {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle(1.2f, 3.4f);
         System.out.println(r1);
@@ -13,3 +13,4 @@ public class TestMain1 {
         System.out.printf("perimeter is: %.2f%n", r1.getPerimeter());
     }
 }
+
