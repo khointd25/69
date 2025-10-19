@@ -1,4 +1,4 @@
-public class TestMain{
+public class TestCircle1{
     public static void main(String[]args){
         Circle c1=new Circle(1.1);
         System.out.println(c1);
@@ -12,3 +12,4 @@ public class TestMain{
     }
 
 }
+
